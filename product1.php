@@ -1,0 +1,74 @@
+<?php include("head.php");?>
+<body data-offset="200" data-spy="scroll" data-target=".primary-navigation">
+	<?php include("header.php");?>
+	<!-- Page Content -->
+	<div class="page-content">
+		<!-- Banner Section -->
+		<div id="page-banner-section" class="page-banner-section container-fluid p_z">
+			<img src="images/Scroller-2.jpg" alt="banner">
+			<!-- Banner Inner -->
+			<div class="page-title">
+				<div class="container ">
+					<div class="banner-inner">
+						<h2>INDUSTRIAL TANKS</h2>
+					</div>
+				</div>
+				<div class="pages-breadcrumb">
+					<div class="container">	
+						<!-- Page breadcrumb -->
+						<ol class="breadcrumb page-breadcrumb pull-right">
+							<li><a href="#">Home</a></li>
+							<li class="active">INDUSTRIAL TANKS</li>
+						</ol>
+					</div>
+				</div>
+			</div><!-- Banner Inner /- -->
+		</div><!-- Banner Section /- -->
+
+		<!-- Property Detail Page -->
+		<div class="property-main-details">
+			<!-- container -->
+			<div class="container">
+			<div class="col-md-12 col-sm-6 p_l_z">
+					<h3><strong>INDUSTRIAL TANKS</strong></h3><br>
+			</div>		
+				<div class="property-details-content property-details-content2 container-fluid p_z">
+					<!-- col-md-9 -->
+					<div class="col-md-5 col-sm-6 p_l_z" >
+					
+						<!-- Slider Section -->
+						<div id="property-detail1-slider" class="carousel slide property-detail1-slider" data-ride="carousel">
+							<!-- Wrapper for slides -->
+							<div class="carousel-inner" role="listbox">
+								<div class="item active">
+									<img src="images/tank.png" alt="Slide" style="max-width: 320px;">
+								</div>
+															
+							</div>
+							<!-- Controls -->
+							
+						</div><!-- Slider Section /- -->
+						</div>
+						<div class="col-md-7 col-sm-6 p_l_z">
+										
+						<div class="single-property-details">
+							<p>In line with clients’ variegated requirements, we bring forth a distinguished collection of Industrial Tanks. Provided tank is designed for storage purposes in heavy industries. This tank is fabricated at our technologically advanced manufacturing unit using the marvelous quality raw material and latest techniques in compliance with the international standards. We give surety to our clients that the offered tank is superb on tot up of stability and quality.</p>
+						</div>
+                         <hr>  
+						<div class="col-md-4 col-sm-6 p_l_z" >
+                        <img src="images/product/industrial-tank06.jpg" > 
+						</div>
+						<div class="col-md-4 col-sm-6 p_l_z">
+                        <img src="images/knu.png"> 
+						</div>
+						<div class="col-md-4 col-sm-6 p_l_z">
+                        <img src="images/product/industrial-tank04.jpg"> 
+						</div>
+					</div><!-- col-md-9 /- -->
+					<!-- col-md-3 -->
+				</div>
+			</div><!-- container /- -->
+		</div><!-- Property Detail Page /- -->
+	</div><!-- Page Content -->
+	
+	<?php include("footer.php");?>
